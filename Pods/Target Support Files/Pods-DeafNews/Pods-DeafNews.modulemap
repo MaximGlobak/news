@@ -1,0 +1,6 @@
+framework module Pods_DeafNews {
+  umbrella header "Pods-DeafNews-umbrella.h"
+
+  export *
+  module * { export * }
+}
